@@ -20,7 +20,7 @@ If you have questions, comments, or suggested changes, you’re always welcome t
 - [Contributor Contract][7]
 
 [1]:	mailto:contactus@loneconservative.com
-[2]:	https://github.com/loneconservative/guidelines/blob/master/Article%20Guidelines.md
+[2]:	https://github.com/loneconservative/guidelines/blob/master/Statement%20of%20Principles.md
 [3]:	https://github.com/loneconservative/guidelines/blob/master/The%20Story%20of%20Lone%20Conservative.md
 [4]:	https://github.com/loneconservative/guidelines/blob/master/For%20New%20Contributors.md
 [5]:	https://github.com/loneconservative/guidelines/blob/master/Article%20Guidelines.md

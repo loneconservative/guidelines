@@ -17,3 +17,5 @@ Please note that at this time, we are not accepting high school students as cont
 While we are always excited to consider new contributors to the team, we do reserve the right to reject applications, or submissions, at will. If a submitted article is far outside our stated guidelines, it will be rejected, and we will do our best to explain why. We do review our contributors’ social media before acceptance. We outline what we expect from our contributors in the Personal Expectations section.
 
 **If you are a student, we will request that you contact us from a student email address to verify your status.** We do not accept anonymously-written pieces. If you feel a specific need to publish under a pseudonym, we can accommodate upon request.
+
+Lone Conservative does not ask contributors to sign noncompete agreements. We welcome our authors publishing as many places as possible.

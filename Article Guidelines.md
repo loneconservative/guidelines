@@ -44,6 +44,6 @@ When you email us a new article for submission, we post it in our Google Drive, 
 
 During editing, the editors will copy/paste the original text of your article to the bottom of the document, to refer back to it quickly as needed. Please do not modify anything but the topmost revision of the article.
 
-Please note that if you have access to the document during editorial review, we may reject any additional changes or suggestions you make – or, in some cases, might not even see them. If you have a required or major change, please contact one of the editors directly for assistance.
+Please note that if you have access to the document during editorial review, _please do not make further revisions to it_. Please contact one of the editors if a change needs to be made.
 
-When your article will be published is at the discretion of the editor-in-chief. As Elizabeth is studying abroad this summer and not always readily online, the decision when to publish may be made last minute, so we cannot and will not in most cases offer advance notice of when an article will be published. Most articles are published at 8:00 a.m. ET.
+When your article will be published is at the discretion of the editor-in-chief. The decision when to publish may be made last minute, so we cannot and will not in most cases offer advance notice of when an article will be published. Most articles are published at 8:00 a.m. ET.

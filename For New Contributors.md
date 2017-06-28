@@ -4,6 +4,8 @@ We’re always happy to bring on new contributors to the team, and our team love
 
 If you’ve contacted us about covering a specific topic or issue, or have been asked specifically to cover one, we’ll send you further guidelines directly.
 
+**Please do not send us finished articles which you expect us to publish. Please send us a topic proposal first, then wait for approval.** At the very least, this ensures we do not have five people writing about the same topic.
+
 If you’re interested in joining the team and contributing in whatever way, we would like you to do the following:
 
 1. Read through this guide, as well as our past articles and media, and make sure you’re familiar with our site’s content and tone.

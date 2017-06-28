@@ -36,6 +36,8 @@ As we stipulate in our contributor contract, you are allowed to republish your o
 
 If your piece appears in another publication without permission after it is published on Lone Conservative, it will be our duty and responsibility to request its removal, and possibly take legal action if required.
 
+If a pitch or article is denied, you are free to submit it to another publication with no hard feelings. However, please give us a heads up about this to avoid any confusion.
+
 If you’re still confused by this, or have any concerns, let us know, and we’ll be happy to discuss them with you.
 
 ## Our Editorial Process

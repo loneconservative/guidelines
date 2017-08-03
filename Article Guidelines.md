@@ -6,6 +6,8 @@ We always appreciate first person narratives about campus experiences, but we ex
 
 In short, if the point of your article is “look at me because I triggered these stupid liberals, lol!,” _we will ask you to rewrite your piece_.
 
+You should ask yourself why your are writing in the first place. What do you intend to do with their writing in the long run? If the answer is simply to help build a following, what is that following for? If the answer is to run for office, is what you are writing something that could look bad in the future?
+
 Don't give us a high school-style five-paragraph essay, and don't submit academic essays. Your work should be original and written with publishing in mind. 500-900 words is ideal for an article, and your arguments should be well-constructed and thoughtful.
 
 Be thoughtful, rational, and cite sources whenever possible. Put your ideas in their proper context. You can argue a point as effectively as you want, but it is not sufficient to rely solely on logic: you should show us how you came to this conclusion through external evidence.

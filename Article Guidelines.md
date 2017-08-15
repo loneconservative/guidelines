@@ -6,7 +6,7 @@ We always appreciate first person narratives about campus experiences, but we ex
 
 In short, if the point of your article is “look at me because I triggered these stupid liberals, lol!,” _we will ask you to rewrite your piece_.
 
-You should ask yourself why your are writing in the first place. What do you intend to do with their writing in the long run? If the answer is simply to help build a following, what is that following for? If the answer is to run for office, is what you are writing something that could look bad in the future?
+You should ask yourself why your are writing in the first place. _What do you intend to do with your writing in the long run?_ If the answer is simply to help build a following, _what is that following for?_ If the answer is to run for office, _is what you are writing something that could look bad in the future?_
 
 Don't give us a high school-style five-paragraph essay, and don't submit academic essays. Your work should be original and written with publishing in mind. 500-900 words is ideal for an article, and your arguments should be well-constructed and thoughtful.
 
@@ -16,13 +16,15 @@ We check all submissions for evidence of plagiarism, and will remove you from th
 
 ## Feeling Stuck?
 
-Ask for help. Our article topics channel in Slack is there both so that we can know who’s working on what, and also discuss ideas for articles as they come to you. Don’t be afraid to pitch an idea, even if you think it’s dumb. Maybe no one else will think it’s dumb, or perhaps someone will be able to quickly find a way to make it work after all. There’s no competition to see who can write the best article or the most articles. Sometimes we collaborate on articles behind the scenes.
+Ask for help. Our #article-topics channel in Slack is there both so that we can know who’s working on what, and also discuss ideas for articles as they come to you. Don’t be afraid to pitch an idea, even if you think it’s dumb. Maybe no one else will think it’s dumb, or perhaps someone will be able to quickly find a way to make it work after all. There’s no competition to see who can write the best article or the most articles. Sometimes we collaborate on articles behind the scenes.
 
 We understand that writing can be the best way to think through what’s in your head, and sometimes you get stuck halfway through. Don’t give up. Even if you can’t come back to the topic, perhaps someone else can pick up where you left off.
 
 We’re in this together, and want to see each other do their best work.
 
 ## Publishing Requirements
+
+Please ensure your articles are pitched in the #article-topics channel and approved by at least one editor/manager beforehand. If you submit a piece without approval, it may be rejected.
 
 All submitted pieces should be sent as a Google Doc, shared with contactus@loneconservative.com.
 

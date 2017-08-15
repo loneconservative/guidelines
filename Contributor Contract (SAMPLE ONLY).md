@@ -1,4 +1,4 @@
-# Contributor Contract
+# Contributor Contract (SAMPLE ONLY)
 
 TITLE OF CONTRIBUTOR: All potential contributors to Lone Conservative will assume the title of “Contributor” upon acceptance by Lone Conservative staff of a first draft of the agreed upon topic. The duties of a contributor and the relationship between Lone Conservative and its contributors is outlined below. 
 

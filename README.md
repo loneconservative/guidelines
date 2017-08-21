@@ -25,4 +25,4 @@ If you have questions, comments, or suggested changes, you’re always welcome t
 [4]:	https://github.com/loneconservative/guidelines/blob/master/For%20New%20Contributors.md
 [5]:	https://github.com/loneconservative/guidelines/blob/master/Article%20Guidelines.md
 [6]:	https://github.com/loneconservative/guidelines/blob/master/Personal%20Conduct.md
-[7]:	https://github.com/loneconservative/guidelines/blob/master/Contributor%20Contract.md
+[7]:	https://github.com/loneconservative/guidelines/blob/master/Contributor%20Contract%20(SAMPLE%20ONLY).md

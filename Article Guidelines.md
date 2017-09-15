@@ -8,9 +8,15 @@ In short, if the point of your article is “look at me because I triggered thes
 
 You should ask yourself why your are writing in the first place. _What do you intend to do with your writing in the long run?_ If the answer is simply to help build a following, _what is that following for?_ If the answer is to run for office, _is what you are writing something that could look bad in the future?_
 
+We cannot accept pieces that openly endorse/reject political candidates, or encourage specific political activity. If a candidate does something, or says something, independently newsworthy, this can be mentioned in an article, but an article that is intended to support, or offers the impression of supporting, a candidate or specific piece of legislation will no longer be accepted.
+
+For instance, if a candidate makes a statement about defunding universities that censor free speech, this by itself is not independently newsworthy as many people say this. If you are doing a piece about the debate over federal funding, making reference to candidates’ statements may be okay if it is done in a purely objective manner. On the other hand, if a candidate writes a book or does something else significant, the book/event would be independently newsworthy.
+
 Don't give us a high school-style five-paragraph essay, and don't submit academic essays. Your work should be original and written with publishing in mind. 500-900 words is ideal for an article, and your arguments should be well-constructed and thoughtful.
 
 Be thoughtful, rational, and cite sources whenever possible. Put your ideas in their proper context. You can argue a point as effectively as you want, but it is not sufficient to rely solely on logic: you should show us how you came to this conclusion through external evidence.
+
+Citations must be present as inline links within your article; academic footnotes will not be accepted. If you are citing an offline source, simply make mention of it within your article. Include links in the way you would expect them to be presented in the published work.
 
 We check all submissions for evidence of plagiarism, and will remove you from the Lone Conservative contributor team if we find evidence of such.
 

@@ -20,9 +20,17 @@ Citations must be present as inline links within your article; academic footnote
 
 We check all submissions for evidence of plagiarism, and will remove you from the Lone Conservative contributor team if we find evidence of such.
 
+## News vs. Opinion
+
+If you’re asked to write a news piece, or are covering a specific incident factually, your opinion does not belong in the article. The words “I” and “me” do not belong in a news piece, unless they are in a quote, or you are writing a first-person narrative.
+
+Loaded phrases such as “This obviously means…” or “It remains to be seen…” are a signal of bias within a news piece. Your personal opinion about the news does not count when you are covering something factually. If you submit a news piece with apparent bias, it will be sent back for revision.
+
+Our readers are intelligent enough to be able to interpret facts for their own, and you must respect the idea that they might disagree with your own personal opinions.
+
 ## Feeling Stuck?
 
-Ask for help. Our #article-topics channel in Slack is there both so that we can know who’s working on what, and also discuss ideas for articles as they come to you. Don’t be afraid to pitch an idea, even if you think it’s dumb. Maybe no one else will think it’s dumb, or perhaps someone will be able to quickly find a way to make it work after all. There’s no competition to see who can write the best article or the most articles. Sometimes we collaborate on articles behind the scenes.
+Ask for help. Don’t be afraid to pitch an idea, even if you think it’s dumb. Maybe no one else will think it’s dumb, or perhaps someone will be able to quickly find a way to make it work after all. There’s no competition to see who can write the best article or the most articles. Sometimes we collaborate on articles behind the scenes.
 
 We understand that writing can be the best way to think through what’s in your head, and sometimes you get stuck halfway through. Don’t give up. Even if you can’t come back to the topic, perhaps someone else can pick up where you left off.
 
@@ -30,7 +38,7 @@ We’re in this together, and want to see each other do their best work.
 
 ## Publishing Requirements
 
-Please ensure your articles are pitched in the #article-topics channel and approved by at least one editor/manager beforehand. If you submit a piece without approval, it may be rejected.
+Please ensure your articles are pitched via email, in the #article-topics channel, and approved by at least one editor/manager beforehand. If you submit a piece without approval, it will be rejected.
 
 All submitted pieces should be sent as a Google Doc, shared with contactus@loneconservative.com.
 

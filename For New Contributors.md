@@ -12,7 +12,7 @@ If you’re interested in joining the team and contributing in whatever way, we 
 2. If you haven’t already, tell us a bit about yourself, including where we can find you on social media. We do ask our contributors to provide a 1-2 sentence bio (written in 3rd person, preferably), and a photo (cropped square) to accompany their work on the site.
 3. Unless you’ve already done so, pitch us 2-3 topics you’d be interested to write about. Before doing so, make sure this is a topic that hasn’t already been covered in an identical fashion, and one that meets our guidelines.
 4. Our editors will review these pitches and most likely pick one that will be best. Unless we specifically reject any, you are more than welcome to contribute the others, as well.
-5. Sign our contributor contract and join our Slack channel, to get to know the rest of the team.
+5. Sign our contributor contract.
 
 Please note that at this time, we are not accepting high school students as contributors, unless we have indicated we will make an exception.
 

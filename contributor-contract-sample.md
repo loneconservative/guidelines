@@ -1,5 +1,7 @@
 # Contributor Contract \(SAMPLE ONLY\)
 
+**NOTE: This document is provided as a sample only.** If you are accepted as a contributor to Lone Conservative this contract will be sent in a separate format to be signed.
+
 TITLE OF CONTRIBUTOR: All potential contributors to Lone Conservative will assume the title of “Contributor” upon acceptance by Lone Conservative staff of a first draft of the agreed upon topic. The duties of a contributor and the relationship between Lone Conservative and its contributors is outlined below.
 
 DESCRIPTION OF SERVICES: The contributor agrees to submit drafts of articles/blogs/columns/etc as requested by Lone Conservative staff. Each submission is a separate piece, and will be treated as such. This agreement covers all submissions for the duration of the relationship between Lone Conservative and the contributor.
@@ -15,7 +17,6 @@ NON-DISCLOSURE: Upon signing this document, the signer agrees to not discuss wit
 ENTIRE AGREEMENT: This agreement contains the entire agreement of the parties, and there are no other promises or condition in any other agreement whether oral or written.
 
 SEVERABILITY: If any provision of this agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable. If a court finds that any provision of the agreement is invalid or unenforceable, but that by limiting such provision it would become valid and enforceable, then such provision shall be deemed to be written, construed, and enforced as so limited.
-
 
 
 

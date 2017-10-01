@@ -9,5 +9,7 @@ While we have an organizational structure behind our editorial and media departm
 
 With this guide, we hope to give you a sense of what Lone Conservative is all about, what’s expected of you, and how we can help you contribute your best. While we may be ideological with our statement of principles, in other sections, we’ll get down to specific details, and hopefully cover everything in between at some point.
 
+Please use the table of contents in the sidebar to read on, or use the arrows within this article to navigate.
+
 If you have questions, comments, or suggested changes, you’re always welcome to get in touch at contactus@loneconservative.com, or submit an issue here on GitHub.
 

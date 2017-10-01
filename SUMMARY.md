@@ -4,4 +4,5 @@
 * [Statement of Principles](statement-of-principles.md)
 * [The Story of Lone Conservative](the-story-of-lone-conservative.md)
 * [For New Contributors](for-new-contributors.md)
+* [Article Guidelines](article-guidelines.md)
 

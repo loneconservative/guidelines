@@ -8,21 +8,7 @@ While we have an organizational structure behind our editorial and media departm
 
 With this guide, we hope to give you a sense of what Lone Conservative is all about, what’s expected of you, and how we can help you contribute your best. While we may be ideological with our statement of principles, in other sections, we’ll get down to specific details, and hopefully cover everything in between at some point.
 
-If you have questions, comments, or suggested changes, you’re always welcome to get in touch at [contactus@loneconservative.com][1], or submit an issue here on GitHub.
+Please use the table of contents in the sidebar, or the navigation arrows within this document, to continue reading.
 
-## Contents
+If you have questions, comments, or suggested changes, you’re always welcome to get in touch at [contactus@loneconservative.com](mailto:contactus@loneconservative.com), or submit an issue here on GitHub.
 
-- [Statement of Principles][2]
-- [The Story of Lone Conservative][3]
-- [For New Contributors][4]
-- [Article Guidelines][5]
-- [Your Personal Conduct][6]
-- [Contributor Contract][7]
-
-[1]:	mailto:contactus@loneconservative.com
-[2]:	https://github.com/loneconservative/guidelines/blob/master/Statement%20of%20Principles.md
-[3]:	https://github.com/loneconservative/guidelines/blob/master/The%20Story%20of%20Lone%20Conservative.md
-[4]:	https://github.com/loneconservative/guidelines/blob/master/For%20New%20Contributors.md
-[5]:	https://github.com/loneconservative/guidelines/blob/master/Article%20Guidelines.md
-[6]:	https://github.com/loneconservative/guidelines/blob/master/Personal%20Conduct.md
-[7]:	https://github.com/loneconservative/guidelines/blob/master/Contributor%20Contract%20(SAMPLE%20ONLY).md

@@ -42,7 +42,7 @@ Please ensure your articles are pitched via email, in the \#article-topics chann
 
 For existing contributors, please make a card in the Articles in Progress board in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you.
 
-All submitted pieces should be sent as a Google Doc, shared with[contactus@loneconservative.com](mailto:contactus@loneconservative.com). Again, if you have Trello access, please link this Google Doc to your article’s card.
+All submitted pieces should be sent as a Google Doc, shared with [contactus@loneconservative.com](mailto:contactus@loneconservative.com). Again, if you have Trello access, please link this Google Doc to your article’s card.
 
 If your article contains pictures, please attach them separately, either as links or in an email, not as part of the document.
 
@@ -69,9 +69,3 @@ During editing, the editors will copy/paste the original text of your article to
 Please note that if you have access to the document during editorial review,_please do not make further revisions to it_. Please contact one of the editors if a change needs to be made.
 
 When your article will be published is at the discretion of the editor-in-chief. The decision when to publish may be made last minute, so we cannot and will not in most cases offer advance notice of when an article will be published. Most articles are published at 8:00 a.m. ET.
-
-  
-
-
-
-

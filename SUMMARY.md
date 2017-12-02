@@ -6,5 +6,5 @@
 * [For New Contributors](for-new-contributors.md)
 * [Article Guidelines](article-guidelines.md)
 * [Personal Conduct](personal-conduct.md)
-* [Contributor Contract \(SAMPLE\)](contributor-contract.md)
+* [Contributor Contract \(SAMPLE\)](Contributor%20Contract.md)
 

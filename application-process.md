@@ -12,7 +12,7 @@ Subject Line: Author Application
 Personal Info: Your University, Expected Graduation Year. Twitter handle. Hometown. 
 2-3 pitches for potential article topics. Please DO NOT send us already-completed works for publication.
 
-Failure to follow application directions above will result in your application being discarded.
+# Failure to follow application directions above will result in your application being discarded.
 
 Please note that at this time we are not accepting high school students as contributors.
 

@@ -18,4 +18,4 @@ Please note that at this time we are not accepting high school students as contr
 
 Lone Conservative does not guarantee that your application will be accepted, or any submitted article will be published.
 
-Check out our about page to get to know us a little bit more before you join the team.
+Check out our [about page](https://loneconservative.com/about/) to get to know us a little bit more before you join the team.

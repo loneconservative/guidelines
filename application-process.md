@@ -7,10 +7,10 @@ Lone Conservative accepts submissions from students and recent graduates. If you
 Make sure if you are interested in applying you check out our articles for inspiration and formatting examples.
 
 When applying to write for Lone Conservative, please provide this information in the email: 
-Contact: From school email, unless you are a recent graduate
-Subject Line: Author Application
-Personal Info: Your University, Expected Graduation Year. Twitter handle. Hometown. 
-2-3 pitches for potential article topics. Please DO NOT send us already-completed works for publication.
+  1. Contact: From school email, unless you are a recent graduate
+  2. Subject Line: Author Application
+  3. Personal Info: Your University, Expected Graduation Year. Twitter handle. Hometown. 
+  4. 2-3 pitches for potential article topics. Please DO NOT send us already-completed works for publication.
 
 **Failure to follow application directions above will result in your application being discarded.**
 

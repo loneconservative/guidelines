@@ -6,7 +6,7 @@ We always appreciate first person narratives about campus experiences, but we ex
 
 In short, if the point of your article is “look at me because I triggered these stupid liberals, lol!,”_we will ask you to rewrite your piece_.
 
-You should ask yourself why your are writing in the first place._What do you intend to do with your writing in the long run?_If the answer is simply to help build a following,_what is that following for?_If the answer is to run for office,_is what you are writing something that could look bad in the future?_
+You should ask yourself why your are writing in the first place._What do you intend to do with your writing in the long run?_If the answer is simply to help build a following, _what is that following for?_ If the answer is to run for office, _is what you are writing something that could look bad in the future?_
 
 We cannot accept pieces that openly endorse/reject political candidates, or encourage specific political activity. If a candidate does something, or says something, independently newsworthy, this can be mentioned in an article, but an article that is intended to support, or offers the impression of supporting, a candidate or specific piece of legislation will no longer be accepted.
 

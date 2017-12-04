@@ -77,30 +77,31 @@ Once your article is approved it goes to Trello. For those who are new, Trello i
 3. Once you return to slack, to add your article type "/trello add article name"
 ![Step 3](trello3a.png)
 
-4.
+4. Click on the Actions tab and select join to connect your account to the article.
 ![Step 4](trello4a.png)
 
-5.
+5. Once your article is completed, and sent to contactus@loneconservative.com, click the action tab and hit move.
 ![Step 5](trello5a.png)
 
-6.
+6. Choose to move it to Submitted Articles.
 ![Step 6](trello6a.png)
 
 ## #merchandise
 
-
+This channel is used to discuss all thing merchandise. This can range from suggestions, to voting, to designs. Join this channel if you have any suggestions and would like your voice heard.
 
 ## #on-the-line
 
-
+This is the channel for our YouTube show. This is were we plan our topics and find guests. If you have any suggestions feel free to join this channel.
 
 ## #random
 
-
+This is our biggest non-work channel. This is where we have our general conversation. The topics can range from politics to sports and everything in between. As stated above, it is important that everyone behaves in here. We can have political discussions, however, we do expect that everyone is kind to one another. Feel free to join and participate however, and enjoy the community here at Lone Conservative.
 
 ## #social-media
 
-
+This is the channel where we brainstorm posts for Instagram, Snapchat, Twitter, and Facebook. If you have a meme, graphic, gif, or video that you think is worth sharing, send it to this channel.
 
 ## #tech
 
+This is the channel for those who are technologically knowledgable. If you can help with the website or any other techincal part, join this channel.

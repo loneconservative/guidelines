@@ -9,10 +9,12 @@ Slack communications
 Text messages between Members 
 Any Private Media exchanged between Members on any platform, so long as said platform is private between the members and not communicated to any third parties
 Member shall keep Lone Conservative’s Confidential Information, whether or not produced by the Member, in the strictest confidence. Member will not disclose such information to anyone outside Lone Conservative without Lone Conservative’s prior written consent. Nor will Member make use of any Confidential Information for Member's own purposes or the benefit of anyone other than Lone Conservative.
+
 2) ### Confidentiality Obligation Survives Association:
 Member’s obligation to maintain the confidentiality and security of Confidential Information begins at the time at which this NDA (Non-Disclosure Agreement) is signed and continues for so long as Lone Conservative exists. This agreement is not terminated when a Member’s contact and/or relationship with Lone Conservative is severed. 
 This NDA covers any disclosures of Confidential Information, as defined in the “Confidential Information” section. Information communicated to the Member before this NDA is signed is protected by this NDA, so long as the disclosure of such information occurs subsequent to the signing of the NDA. 
 Members of Lone Conservative are protected from penalties resulting from Inadvertent Disclosures of information. The purpose of this NDA is to protect both Lone Conservative and its Members. Lone Conservative Members are expected to exercise “reasonable judgment” and to lack malicious intent against Lone Conservative and its members for the Member in question to be protected under this “Inadvertent Disclosure” clause.
+
 3) ### General Provisions:
 Relationships: Nothing contained in this Agreement shall be deemed to make Member a partner or joint venturer of Lone Conservative for any purpose.
  Severability: If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to effect the intent of Lone Conservative. 
@@ -27,11 +29,15 @@ Member has carefully read all of this Agreement and agrees that all of the restr
 Member:
  
 _____________________________________________ (Signature)
+
 _____________________ (Typed or Printed Name)
+
 Date: _____________________
  
 Lone Conservative:
  
 _____________________________________________ (Signature)
+
 _____________________ (Typed or Printed Name)
+
 Date: _____________________

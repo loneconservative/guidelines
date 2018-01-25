@@ -7,4 +7,5 @@
 * [Article Guidelines](article-guidelines.md)
 * [Personal Conduct](personal-conduct.md)
 * [Contributor Contract](contributor-contract.md)
+* [Non-Disclosure Agreement](non-disclosure-agreement.md)
 * [Slack](slack.md)

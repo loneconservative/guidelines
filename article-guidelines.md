@@ -12,7 +12,7 @@ We cannot accept pieces that openly endorse/reject political candidates, or enco
 
 For instance, if a candidate makes a statement about defunding universities that censor free speech, this by itself is not independently newsworthy as many people say this. If you are doing a piece about the debate over federal funding, making reference to candidates’ statements may be okay if it is done in a purely objective manner. On the other hand, if a candidate writes a book or does something else significant, the book/event would be independently newsworthy.
 
-Don't give us a high school-style five-paragraph essay, and don't submit academic essays. Your work should be original and written with publishing in mind. 500-900 words is ideal for an article, and your arguments should be well-constructed and thoughtful.
+Don't give us a high school-style five-paragraph essay, and don't submit academic essays. Your work should be original and written with publishing in mind. 500-800 words is ideal for an article (*WE WILL NOT ACCEPT ARTICLES OVER 800 WORDS UNLESS YOU SPECIFY A REASON*), and your arguments should be well-constructed and thoughtful.
 
 Be thoughtful, rational, and cite sources whenever possible. Put your ideas in their proper context. You can argue a point as effectively as you want, but it is not sufficient to rely solely on logic: you should show us how you came to this conclusion through external evidence.
 

@@ -40,7 +40,7 @@ We’re in this together, and want to see each other do their best work.
 
 Please ensure your articles are pitched via email, in the \#article-topics channel, and approved by at least one editor/manager beforehand. If you submit a piece without approval, it will be rejected.
 
-For existing contributors, please make a card in the Articles in Progress board in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you.
+**For existing contributors**, please make a card in the Articles in Progress board in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you.
 
 All submitted pieces should be sent as a Google Doc, shared with [contactus@loneconservative.com](mailto:contactus@loneconservative.com). Again, if you have Trello access, please link this Google Doc to your article’s card.
 

@@ -60,6 +60,10 @@ If a pitch or article is denied, you are free to submit it to another publicatio
 
 If you’re still confused by this, or have any concerns, let us know, and we’ll be happy to discuss them with you.
 
+## Time Sensitivity
+
+If your article is considered time sensitive (the topic will be out of the news within the week at the latest) it should be marked as such for our editing team to get on as fast as possible. Time sensitive status is an article which must be posted in the next 36 ours. Priority edit status is an article which must be posted within a one week time frame.  **Failure to notify us of time sensitive status can result in a rejected article submission.**
+
 ## Our Editorial Process
 
 When you email us a new article for submission, we post it in our Google Drive, which our editorial team all has access to. Our editor-in-chief, Elizabeth, will internally assign a pair of editors to your piece, and they will both review and revise your piece as needed.

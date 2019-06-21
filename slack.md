@@ -85,6 +85,7 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 ![Step 5](trello5a.png)
 
 6. Choose to move it to Submitted Articles.
+
 ![Step 6](trello6a.png)
 
 ## #merchandise

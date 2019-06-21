@@ -80,11 +80,11 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 4. Click on the Actions tab and select join to connect your account to the article.
 ![Step 4](trello4a.png)
 
-5. Once your article is completed, attach the google doc containing the article to the card in Trello with editing permissions turned on, click the action tab and hit move.
+5. Once your article is completed, login to trello and edit your article card. Include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. 
 
 ![Step 5](trello5a.png)
 
-6. Choose to move it to Submitted Articles.
+6. Move the card to Submitted Articles.
 
 ![Step 6](trello6a.png)
 

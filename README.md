@@ -8,4 +8,4 @@
 * [Personal Conduct](personal-conduct.md)
 * [Contributor Contract](contributor-contract.md)
 * [Non-Disclosure Agreement](non-disclosure-agreement.md)
-* [Slack](slack.md)
+* [Slack & Trello](slack.md)

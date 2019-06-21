@@ -66,7 +66,7 @@ If your article is considered time sensitive (the topic will be out of the news 
 
 ## Our Editorial Process
 
-When you email us a new article for submission, we post it in our Google Drive, which our editorial team all has access to. Our editor-in-chief, Elizabeth, will internally assign a pair of editors to your piece, and they will both review and revise your piece as needed.
+When you upload a new article for submission, we post it in our Google Drive, which our editorial team all has access to. Our editor-in-chief, Elizabeth, will internally assign a pair of editors to your piece, and they will both review and revise your piece as needed.
 
 During editing, the editors will copy/paste the original text of your article to the bottom of the document, to refer back to it quickly as needed. Please do not modify anything but the topmost revision of the article.
 

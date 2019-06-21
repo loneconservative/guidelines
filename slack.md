@@ -47,7 +47,7 @@ For news piece, these can focus on stuff that happens around your campus that sh
 
 ### Trello
 
-Once your article is approved it goes to Trello. For those who are new, Trello is the website we use to categorize our article ideas. Additionally, if you ever feeling the need to write an article, but can't think of a topic, Trello has a list of topics we have pre-approved for submission and review.
+Once your article is approved you are tasked with putting it in Trello. For those who are new, Trello is the website we use to categorize our article ideas and to submit articles. Additionally, if you ever feeling the need to write an article, but can't think of a topic, Trello has a list of topics we have pre-approved for submission and review.
 
 #### How to set up Trello account.
 
@@ -81,6 +81,7 @@ Once your article is approved it goes to Trello. For those who are new, Trello i
 ![Step 4](trello4a.png)
 
 5. Once your article is completed, attach the google doc containing the article to the card in Trello with editing permissions turned on, click the action tab and hit move.
+
 ![Step 5](trello5a.png)
 
 6. Choose to move it to Submitted Articles.

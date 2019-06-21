@@ -38,11 +38,11 @@ We’re in this together, and want to see each other do their best work.
 
 ## Publishing Requirements
 
-Please ensure your articles are pitched via email, in the \#article-topics channel, and approved by at least one editor/manager beforehand. If you submit a piece without approval, it will be rejected.
+Please ensure your articles are pitched via email, or in the \#article-topics channel, and approved by at least one editor/manager beforehand. If you submit a piece without approval, it will be rejected.
 
-**For existing contributors**, please make a card in the Articles in Progress board in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you.
+**For existing contributors**, please make a card in the Articles in Progress list in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you. Once your article is complete, upload it as a Google Doc, with editing permissions, to your article’s card. Move the card to the Submitted Articles list in trello. 
 
-All submitted pieces should be sent as a Google Doc, shared with [contactus@loneconservative.com](mailto:contactus@loneconservative.com). Again, if you have Trello access, please link this Google Doc to your article’s card.
+**For new contributors**, All submitted pieces should be sent as a Google Doc, shared with [contactus@loneconservative.com](mailto:contactus@loneconservative.com). 
 
 If your article contains pictures, please attach them separately, either as links or in an email, not as part of the document.
 
@@ -62,7 +62,7 @@ If you’re still confused by this, or have any concerns, let us know, and we’
 
 ## Time Sensitivity
 
-If your article is considered time sensitive (the topic will be out of the news within the week at the latest) it should be marked as such for our editing team to get on as fast as possible. Time sensitive status is an article which must be posted in the next 36 ours. Priority edit status is an article which must be posted within a one week time frame.  **Failure to notify us of time sensitive status can result in a rejected article submission.**
+If your article is considered time sensitive (the topic will be out of the news within the week at the latest) it should be **labeled** as such on the trello card for our editing team to get on as fast as possible. Time sensitive status is an article which must be posted in the next 36 ours. Priority edit status is an article which must be posted within a one week time frame.  **Failure to notify us of time sensitive status can result in a rejected article submission.** 
 
 ## Our Editorial Process
 

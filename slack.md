@@ -47,7 +47,7 @@ For news piece, these can focus on stuff that happens around your campus that sh
 
 ### Trello
 
-Once your article is approved you are tasked with putting it in Trello. For those who are new, Trello is the website we use to categorize our article ideas and to submit articles. Additionally, if you ever feeling the need to write an article, but can't think of a topic, Trello has a list of topics we have pre-approved for submission and review. **The Editing Board is off limits for contributors**
+Once your article is approved you are tasked with putting it in Trello. For those who are new, Trello is the website we use to categorize our article ideas and to submit articles. Additionally, if you ever feeling the need to write an article, but can't think of a topic, Trello has a list of topics we have pre-approved for submission and review. **The Editing Board is off limits for contributors**. 
 
 #### How to set up Trello account.
 

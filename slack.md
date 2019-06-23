@@ -82,6 +82,12 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 
 5. Once your article is completed, login to trello and edit your article card. Include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. 
 
+Labels:
+
+Time sensative = Goal to be published within 36hrs
+Priority edit = Goal to be published this week
+News = The submittal is a news story
+
 ![Step 5](trello5b.png)
 
 6. Move the card to Submitted Articles.

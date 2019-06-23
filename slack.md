@@ -85,7 +85,9 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 Labels:
 
 Time sensative = Goal to be published within 36hrs
+
 Priority edit = Goal to be published this week
+
 News = The submittal is a news story
 
 ![Step 5](trello5b.png)

@@ -38,7 +38,7 @@ We’re in this together, and want to see each other do their best work.
 
 ## Publishing Requirements
 
-Please ensure your articles are pitched via email, or in the \#article-topics channel, and approved by at least one editor/manager beforehand. If you submit a piece without approval, it will be rejected.
+Please ensure your articles are pitched via email, or in the \#article-topics channel, and approved by at least one editor/manager beforehand. You have 30 days from the date of topic approval to write your article. Article pitches older than 30 days will be archived and you will be required to re-pitch your topic. If you submit a piece without approval, it will be rejected.
 
 **For existing contributors**, please make a card in the Articles in Progress list in Trello about your article, assigning it to yourself. Do not assume that someone else will do this for you. Once your article is complete, upload it as a Google Doc, with editing permissions, to your article’s card. Move the card to the Submitted Articles list in trello. 
 

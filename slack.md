@@ -80,7 +80,7 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 4. Click on the Actions tab and select join to connect your account to the article.
 ![Step 4](trello4a.png)
 
-5. Once your article is completed, login to trello and edit your article card. Include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. 
+5. Once your article is completed, login to trello and edit your article card. Include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. For a details see the "Article Submission: How to Guide" [link](https://loneconservative.us15.list-manage.com/track/click?u=645d4c9632590ed91216ec556&id=e7e336d84a&e=dac2748f1d)
 
 Labels:
 

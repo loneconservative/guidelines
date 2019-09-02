@@ -31,19 +31,29 @@ After you join you are required to stay in #announcements and #article-topics. A
 
 If you are joining as an editor, or would like to become one, DM Elizabeth Desimone.
 
+## Monthly Meeting
+
+We have a mandatory monthly meeting on Zoom. Meetings are at 7 PM ET and 10 PM ET on the first Sunday of each month. During these we recap our social media growth, discuss internship openings, political trainings, and various other opportunities. Additionally, during these meetings we set policy in regards to articles and slack, making these meetings important to attend if you wish to remain informed on all things Lone Conservative. This is a great time to meet the rest of the contributors and get integrated to our community. Additionally, if you want to voice your opinion, ask the executive board a question, or just pitch an idea, this is the time to do it. If you cannot attend the mandatory monthly meeting please message Patrick Hauf. Contributors are allowed one excused absence per semester.
+
 ## #announcements
 
-This is our most important channel. In this channel there will be company-wide announcements. This can range from projects we are starting, sharing links to major new organizations that mention our articles, posting our links to our weekly meetings, and much more. If you wish to be less active in slack, it is fine, however, keep up-to-date with this channel to ensure you are not falling behind.
+This is our most important channel. In this channel there will be company-wide announcements. This can range from projects we are starting, sharing links to major new organizations that mention our articles, posting our links to our weekly meetings, and much more. If you wish to be less active in slack, it is fine, however, keep up-to-date with this channel to ensure you are not falling behind. 
 
-As previously mentioned, we have weeking meetings on Google Hangout. One at 7 PM ET and the other at 10 PM ET on Sunday. During these we recap our social media growth, discuss internship openings, political trainings, and various other opportunities. Additionally, during these meetings we set policy in regards to articles and slack, making these meetings important to attend if you wish to remain informed on all things Lone Conservative. This is a great time to meet the rest of the contributors and get integrated to our community. Additionally, if you want to voice your opinion, ask the executive board a question, or just pitch an idea, this is the time to do it.
+## #article-ideas
 
-## #article-topics
-
-This is the channel you need to access to pitch article ideas. The guidelines to article pitches is laid out [here](article-guidelines.md#article-guidelines). This channel is used to get an approval of topics, whether it be from Kassy, Alec, or Rob. When thinking about a topic, remember to ensure they meet the article guidelines linked above.
+This is the channel you need to access to pitch article ideas. The guidelines to article pitches are laid out [here](article-guidelines.md#article-guidelines). This channel is used to get an approval of topics. When thinking about a topic, remember to ensure they meet the article guidelines linked above.
 
 Ideas can be based off current events, reactions to crazy pieces in the MSM, college news pieces, and many more ideas. Make sure if you have an idea, be able to answer: what about this piece will be unique? This will be the first question you are asked. Be able to answer it to get your idea approved.
 
-For news piece, these can focus on stuff that happens around your campus that shows extreme leftist craziness or anything else  that may be politically relevant. Let the channel know so we can cover this in a timely manner. We pride ourselves on our coverage as highlighted by our success during the lead up to Ben Shapiro's Berkeley lecture.
+## #news-pitches
+
+This is the channel you need to access to pitch news ideas. The guidelines to article pitches are laid out [here](article-guidelines.md#article-guidelines). This channel is used to get an approval of topics. When thinking about a topic, remember to ensure they meet the article guidelines linked above.
+
+For news pieces, these can focus on stuff that happens around your campus that shows extreme leftist craziness or anything else that may be politically relevant. Let the channel know so we can cover this in a timely manner. We pride ourselves on our coverage as highlighted by our success during the lead up to Ben Shapiro's Berkeley lecture.
+
+## #random
+
+This is our biggest non-work channel. This is where we have our general conversation. The topics can range from politics to sports and everything in between. As stated above, it is important that everyone behaves in here. We can have political discussions, however, we do expect that everyone is kind to one another. Feel free to join and participate however, and enjoy the community here at Lone Conservative.
 
 ### Trello
 
@@ -96,22 +106,4 @@ News = The submittal is a news story
 
 ![Step 6](trello6a.png)
 
-## #merchandise
 
-This channel is used to discuss all thing merchandise. This can range from suggestions, to voting, to designs. Join this channel if you have any suggestions and would like your voice heard.
-
-## #on-the-line
-
-This is the channel for our YouTube show. This is were we plan our topics and find guests. If you have any suggestions feel free to join this channel.
-
-## #random
-
-This is our biggest non-work channel. This is where we have our general conversation. The topics can range from politics to sports and everything in between. As stated above, it is important that everyone behaves in here. We can have political discussions, however, we do expect that everyone is kind to one another. Feel free to join and participate however, and enjoy the community here at Lone Conservative.
-
-## #social-media
-
-This is the channel where we brainstorm posts for Instagram, Snapchat, Twitter, and Facebook. If you have a meme, graphic, gif, or video that you think is worth sharing, send it to this channel.
-
-## #tech
-
-This is the channel for those who are technologically knowledgable. If you can help with the website or any other techincal part, join this channel.

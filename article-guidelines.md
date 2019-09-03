@@ -46,7 +46,7 @@ Please ensure your articles are pitched via email, or in the \#article-topics ch
 
 If your article contains pictures, please attach them separately, either as links or in an email, not as part of the document.
 
-Your article will be sent to the editors and reviewed. We may or may not follow up before publication. We will do our best to be in communication but cannot guarantee it.
+Your article will be sent to the editors and reviewed. We may or may not follow up before publication. We will do our best to be in communication but cannot guarantee it. Contributors are required to attend the monthly meeting hosted on the first Sunday of every month at either 7pm or 10pm ET. Contributors are allowed only one excused absence per semester. 
 
 ## Article Ownership
 

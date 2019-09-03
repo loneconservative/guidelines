@@ -37,7 +37,7 @@ We have a mandatory monthly meeting on Zoom. Meetings are at 7 PM ET and 10 PM E
 
 ## #announcements
 
-This is our most important channel. In this channel there will be company-wide announcements. This can range from projects we are starting, sharing links to major new organizations that mention our articles, posting our links to our weekly meetings, and much more. If you wish to be less active in slack, it is fine, however, keep up-to-date with this channel to ensure you are not falling behind. 
+This is our most important channel. In this channel there will be company-wide announcements. This can range from projects we are starting, sharing links to major new organizations that mention our articles, posting our links to our monthly meetings, and much more. If you wish to be less active in slack, it is fine, however, keep up-to-date with this channel to ensure you are not falling behind. 
 
 ## #article-ideas
 

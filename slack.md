@@ -61,7 +61,7 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 
 #### How to set up Trello account.
 
-1. To being, click this [link](https://trello.com/invite/loneconservative/25ccd24c43e8f5324739576b1cdae577).
+1. To being, ask Programs Director, Andrew Amarone for a link to join Trello.
 
 2. Click Sign up link.
 <br>

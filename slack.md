@@ -45,12 +45,6 @@ This is the channel you need to access to pitch article ideas. The guidelines to
 
 Ideas can be based off current events, reactions to crazy pieces in the MSM, college news pieces, and many more ideas. Make sure if you have an idea, be able to answer: what about this piece will be unique? This will be the first question you are asked. Be able to answer it to get your idea approved.
 
-## #news-pitches
-
-This is the channel you need to access to pitch news ideas. The guidelines to article pitches are laid out [here](article-guidelines.md#article-guidelines). This channel is used to get an approval of topics. When thinking about a topic, remember to ensure they meet the article guidelines linked above.
-
-For news pieces, these can focus on stuff that happens around your campus that shows extreme leftist craziness or anything else that may be politically relevant. Let the channel know so we can cover this in a timely manner. We pride ourselves on our coverage as highlighted by our success during the lead up to Ben Shapiro's Berkeley lecture.
-
 ## #random
 
 This is our biggest non-work channel. This is where we have our general conversation. The topics can range from politics to sports and everything in between. As stated above, it is important that everyone behaves in here. We can have political discussions, however, we do expect that everyone is kind to one another. Feel free to join and participate however, and enjoy the community here at Lone Conservative.
@@ -61,7 +55,7 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 
 #### How to set up Trello account.
 
-1. To being, ask Programs Director, Andrew Amarone for a link to join Trello.
+1. To being, ask Recruitment Director, Nate Gorman for a link to join Trello if you have not received one.
 
 2. Click Sign up link.
 <br>
@@ -76,21 +70,7 @@ Once your article is approved you are tasked with putting it in Trello. For thos
 4. Go to email to verify your account.
 ![Step 4](trello3.png)
 
-#### How to set up Trello on Slack.
-
-1. In #article-topics, type "/trello add" and click "Link Account".
-![Step 1](trello1a.png)
-
-2. After being redirected to Trello, click "Allow".
-![Step 2](trello2a.png)
-
-3. Once you return to slack, to add your article type "/trello add article name"
-![Step 3](trello3a.png)
-
-4. Click on the Actions tab and select join to connect your account to the article.
-![Step 4](trello4a.png)
-
-5. Once your article is completed, login to trello and edit your article card. Include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. For a details see the "Article Submission: How to Guide" [link](https://loneconservative.us15.list-manage.com/track/click?u=645d4c9632590ed91216ec556&id=e7e336d84a&e=dac2748f1d)
+5. Read the article submission guide to learn how to pitch articles and submit them in trello. Be sure to include 1) A proposed title; 2) Your name (or pen name); 3) Labels if applicable; 4) Attached google doc file - be sure to enable editing permissions. For a details see the "Article Submission: How to Guide" [link](https://loneconservative.us15.list-manage.com/track/click?u=645d4c9632590ed91216ec556&id=e7e336d84a&e=dac2748f1d)
 
 Labels:
 
@@ -100,10 +80,6 @@ Priority edit = Goal to be published this week
 
 News = The submittal is a news story
 
-![Step 5](trello5b.png)
-
-6. Move the card to Submitted Articles.
-
-![Step 6](trello6a.png)
+6. If completed correctly, your submission will be moved to the editing board for editing and publishing. 
 
 

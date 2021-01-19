@@ -10,7 +10,7 @@ Essentially, we ask that you adhere to, or at least respect, our stance that con
 
 ## Our Slack Channel
 
-Access to the Lone Conservative Slack channel is a privilege, not a right. If you choose to abuse your privileges they will be taken away.
+Access to the Lone Conservative Slack channel is a privilege, not a right or guarentee upon contribution. If you choose to abuse your privileges they will be taken away.
 
 Please use the \#announcements channel for important announcements and business-related questions only. The \#random channel is an open free-for-all. Please use the \#article-topics channel to pitch and discuss ideas for topics.
 

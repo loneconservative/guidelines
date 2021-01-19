@@ -6,7 +6,7 @@ Lone Conservative accepts submissions from high school and college students from
 
 Lone Conservative does not guarantee that your application will be accepted, or any submitted article will be published.
 
-Once accepted, contributors will be invited to join our Slack community, where they will have the opportunity to connect with like-minded students from around the country and even the world. This includes optional Bible studies, book clubs, and more.
+Once accepted, contributors may be invited to join our Slack community, where they will have the opportunity to connect with like-minded students from around the country and even the world. This includes optional Bible studies, book clubs, and more.
 
 We hope to hear from you!
 

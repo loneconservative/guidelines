@@ -1,4 +1,4 @@
-# Slack & Trello
+# Trello
  
 Lone Conservative is a community. As a community we use [Slack](slack.com) as our mode of communication. Whether it would be company wide announcments or general conversation, it is the hallmark of our community tradition.
 

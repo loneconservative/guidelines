@@ -1,21 +1,14 @@
-Are you a conservative college student feeling alone on campus? Do you believe in freedom, logic, and decency, and find them lacking at your school? If so, we hope you'll join us in sharing the many stories of what it's like to be a conservative alone in an often hostile school. 
+If you’re a conservative student with an interest in political commentary, journalism, or communications, Lone Conservative is the place to be.
 
-We welcome submissions from all students – even if you're not in the United States. If you're a college student with a story to tell, we hope you'll join us. If you're ready to network with other conservatives and become part of a greater community, you've found the right place. 
+Contributors have the opportunity to write political commentary and report on campus bias. Their work is personally edited and published on the Lone Conservative website. Contributors are also provided with training opportunities to help polish their media skills. As contributors become more involved over time, they’re encouraged to explore additional roles with the organization, which can include editing, social media, recruiting, development, and more.
 
-Lone Conservative accepts submissions from students and recent graduates. If you have a story, let us know. Our editors are happy to work with contributors to refine and share your work. 
-
-Make sure if you are interested in applying you check out our articles for inspiration and formatting examples.
-
-When applying to write for Lone Conservative, please provide this information in the email: 
-  1. Contact: From school email, unless you are a recent graduate
-  2. Subject Line: Author Application
-  3. Personal Info: Your University, Expected Graduation Year. Twitter handle. Hometown. 
-  4. 2-3 pitches for potential article topics. Please DO NOT send us already-completed works for publication.
-
-**Failure to follow application directions above will result in your application being discarded.**
-
-Please note that at this time we are not accepting high school students as contributors.
+Lone Conservative accepts submissions from high school and college students from around the world. If you have a story, let us know. Our editors are more than willing to work with you to refine and share your work.
 
 Lone Conservative does not guarantee that your application will be accepted, or any submitted article will be published.
 
-Check out our [about page](https://loneconservative.com/about/) to get to know us a little bit more before you join the team.
+Once accepted, contributors will be invited to join our Slack community, where they will have the opportunity to connect with like-minded students from around the country and even the world. This includes optional Bible studies, book clubs, and more.
+
+We hope to hear from you!
+
+[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSc8vqjfFjqwRwFhLU22MEMNNvRmuiq8UECXIRIDEvBtr0RRSw/viewform?usp=sf_link)
+

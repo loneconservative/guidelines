@@ -72,4 +72,4 @@ During editing, the editors will copy/paste the original text of your article to
 
 Please note that if you have access to the document during editorial review, _please do not make further revisions to it_. Please contact one of the editors if a change needs to be made.
 
-When your article will be published is at the discretion of the editor-in-chief. The decision when to publish may be made last minute, so we cannot and will not in most cases offer advance notice of when an article will be published. Most articles are published at 8:00 a.m. ET.
+When your article will be published is at the discretion of the editor-in-chief. The decision when to publish may be made last minute, so we cannot and will not in most cases offer advance notice of when an article will be published. 
